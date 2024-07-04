@@ -1,2 +1,2 @@
-centos7.9.2009
+tomcat:jre21-temurin-jammy
 
