@@ -1,4 +1,5 @@
-calico/kube-controllers:v3.23.1-27-gb15773370b72-ppc64le
+centos:7.9.2009
+
 
 
 
