@@ -1,5 +1,4 @@
-python
-
+calico/pod2daemon-flexvol:v3.25.0-0.dev-582-g06860805eb01-amd64
 
 
 
