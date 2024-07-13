@@ -1,4 +1,4 @@
-calico/pod2daemon-flexvol:v3.25.0-0.dev-582-g06860805eb01-amd64
+calico/kube-controllers:v3.23.1-27-gb15773370b72
 
 
 
