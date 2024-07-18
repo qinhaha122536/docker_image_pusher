@@ -1,4 +1,4 @@
-centos:7.9.2009
+myifeng/registry.k8s.io_ingress-nginx_controller:v1.0.0
 
 
 
