@@ -1,4 +1,5 @@
-myifeng/registry.k8s.io_ingress-nginx_controller:v1.0.0
+kube-webhook-certgen:v1.0
+
 
 
 
