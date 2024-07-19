@@ -1,4 +1,5 @@
-dyrnq/kube-webhook-certgen:v1.0
+busybox:stable-musl
+
 
 
 
