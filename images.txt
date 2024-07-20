@@ -1,5 +1,5 @@
-calico/kube-controllers:v3.23.5-19-gba2024f730db
-calico/apiserver:v3.23.5-19-gba2024f730db
+dyrnq/ingress-nginx-controller:v1.0.0
+cnsre/ingress-nginx-kube-webhook-certgen:v1.0
 
 
 
