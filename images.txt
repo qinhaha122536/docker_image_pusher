@@ -1,5 +1,4 @@
-dyrnq/ingress-nginx-controller:v1.0.0
-cnsre/ingress-nginx-kube-webhook-certgen:v1.0
+dyrnq/defaultbackend-amd64:1.5
 
 
 
