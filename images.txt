@@ -1,7 +1,6 @@
-calico/kube-controllers:v3.23.1-27-gb15773370b72
-calico/cni:v3.23.5-19-gba2024f730db
-calico/node:v3.23.5-19-gba2024f730db
-calico/pod2daemon-flexvol:v3.24.3-8-g7b823316d2d2
+calico/kube-controllers:v3.23.5-19-gba2024f730db
+calico/apiserver:v3.23.5-19-gba2024f730db
+
 
 
 
