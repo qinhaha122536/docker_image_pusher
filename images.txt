@@ -1,4 +1,4 @@
-calico/cni:v3.23.5-19-gba2024f730db-ppc64le
+calico/typha:v3.23.5-19-gba2024f730db
 
 
 
