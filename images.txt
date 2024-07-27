@@ -1,4 +1,5 @@
-dyrnq/defaultbackend-amd64:1.5
+cncamp/node-problem-detector:v0.8.10
+
 
 
 
