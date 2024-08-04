@@ -1,4 +1,4 @@
-registry.k8s.io/metrics-server/metrics-server:v0.7.0
+cncamp/metrics-server:v0.5.0
 
 
 
