@@ -1,4 +1,4 @@
-httpd:latest
+calico/node:v3.25.1-59-ge359e2c4d563
 
 
 
