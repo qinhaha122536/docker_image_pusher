@@ -1,4 +1,5 @@
-mysql:5.7
+grafana/grafana:10.4.2
+
 
 
 
