@@ -1,4 +1,4 @@
---platform linux/arm64 grafana/grafana:10.4.2
+k8s.gcr.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
 
 
 
